@@ -1,5 +1,5 @@
 Name:		mint-themes
-Version:	2.4.2
+Version:	2.4.3
 Release:	1
 Source0:	https://github.com/linuxmint/mint-themes/archive/%{version}/%{name}-%{version}.tar.gz
 Summary:	A collection of mint themes.
